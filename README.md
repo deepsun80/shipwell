@@ -1,6 +1,6 @@
 # Shipwell Test App
 
-This is a single page application written for the Shipwell test.
+This is a single page application written for the Shipwell test. It is built as a very simple app, with minimal styling (ex. no hover effect).
 
 ## Structure
 
